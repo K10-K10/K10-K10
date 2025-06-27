@@ -4,7 +4,8 @@
 --- 
 ## Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K10-K10&theme=2077)
+[![K10-K10 GitHub stats](https://github-readme-stats.vercel.app/api?username=K10-K10&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K10-K10&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K10-K10&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K10-K10&theme=2077)
