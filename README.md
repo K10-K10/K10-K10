@@ -1,4 +1,4 @@
-# Hello GitHub!  
+no# Hello GitHub!  
 
 ![](https://raw.githubusercontent.com/K10-K10/K10-K10/output/github-contribution-grid-snake.svg)
 --- 
@@ -24,7 +24,7 @@
 [Note-zsh](https://github.com/K10-K10/Note-zsh)
 
 ## Interpreter  
-[Brainfuck](https://github.com/K10-K10/Brainfuck-interpreter)
-[Befunge](https://github.com/K10-K10/Befunge-interpreter)
-[HQ9+](https://github.com/K10-K10/HQ9x-interpreter)
+[Brainfuck](https://github.com/K10-K10/Brainfuck-interpreter).  
+[Befunge](https://github.com/K10-K10/Befunge-interpreter).  
+[HQ9+](https://github.com/K10-K10/HQ9x-interpreter).  
 
