@@ -18,6 +18,7 @@
 
 
 --- 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=K10-K10&theme=nord)
 
 # Projects  
